@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-	<name>Numix</name>
-	<author>Satyajit Sahoo</author>
+	<name>Dark-Numix</name>
+	<author>Rodrigo Deodoro</author>
 	<copyright>GPL-3.0+</copyright>
-	<date>4 August 2013</date>
-	<description>Numix Metacity Theme</description>
+	<date>1 December 2013</date>
+	<description>Dark-Numix Metacity Theme</description>
 </info>
 
 <!-- ::: CONSTANTS ::: -->
