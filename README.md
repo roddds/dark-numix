@@ -7,8 +7,8 @@ Extract the zip file to the themes directory i.e. `/usr/share/themes/`
 To set the theme in Gnome, run the following commands in Terminal,
 
 ```
-gsettings set org.gnome.desktop.interface gtk-theme "Numix"
-gsettings set org.gnome.desktop.wm.preferences theme "Numix"
+gsettings set org.gnome.desktop.interface gtk-theme "Rodrigo-Numix"
+gsettings set org.gnome.desktop.wm.preferences theme "Rodrigo-Numix"
 ```
 
 To set the theme in Xfce, run the following commands in Terminal,
