@@ -1,31 +1,18 @@
-Numix is a modern flat theme with a combination of light and dark elements. It supports Gnome, Unity, XFCE and Openbox.
+Dark-Numix is a modern flat theme with a combination of light and dark elements, but without the high amount of orange elements of the original Numix. Included are files for cinnamon, gtk-2.0, gtk-3.0 and metacity.
 
 ### Manual installation
 
-Extract the zip file to the themes directory i.e. `/usr/share/themes/`
+Extract the zip file to the themes directory i.e. `~/.themes`
 
-To set the theme in Gnome, run the following commands in Terminal,
+Go to System Settings > Themes and in the "Installed" tab, choose Dark-Numix from the list. After that go to "Other Settings" and choose Dark-Numix on the "Controls" and "Window borders" drop-downs.
 
-```
-gsettings set org.gnome.desktop.interface gtk-theme "Rodrigo-Numix"
-gsettings set org.gnome.desktop.wm.preferences theme "Rodrigo-Numix"
-```
-
-To set the theme in Xfce, run the following commands in Terminal,
-
-```
-xfconf-query -c xsettings -p /Net/ThemeName -s "Numix"
-xfconf-query -c xfwm4 -p /general/theme -s "Numix"
-```
 
 ### Requirements
 
-GTK+ 3.6 or above
-
-Murrine theme engine
+Tested on Cinnamon 2.0
 
 ### Code and license
 
-Report bugs or contribute at [GitHub](https://github.com/shimmerproject/Numix)
+Report bugs or contribute at [GitHub](https://github.com/roddds/dark-numix)
 
 License: GPL-3.0+
