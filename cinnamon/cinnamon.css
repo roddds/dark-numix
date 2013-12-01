@@ -126,7 +126,7 @@ StScrollBar StButton#vhandle:hover
 .notification-button:active, .notification-icon-button:active,
 .hotplug-notification-item:active, .hotplug-resident-eject-button:active,
 .modal-dialog-button:active, .modal-dialog-button:pressed {
-    background-color: #bc4233;
+    background-color: #656565;
     border: 1px solid #555;
     border-radius: 2px;
 }
@@ -221,7 +221,7 @@ StScrollBar StButton#vhandle:hover
 
 .popup-menu-item:active {
 	background-color: #555;
-	box-shadow: inset 0px 0px 1px 1px #bc4233;
+	box-shadow: inset 0px 0px 1px 1px #656565;
 }
 
 .popup-menu-item:insensitive {
@@ -1215,7 +1215,7 @@ StScrollBar StButton#vhandle:hover
 
 .modal-dialog-button:active,
 .modal-dialog-button:checked {
-    background-color: #bc4233;
+    background-color: #656565;
     border: 1px solid #555;
     border-radius: 2px;
 }
@@ -1623,7 +1623,7 @@ StScrollBar StButton#vhandle:hover
 }
 
 .keyboard-key:active {
-    background-color: #bc4233;
+    background-color: #656565;
     border: 1px solid #555;
     border-radius: 2px
 }
@@ -1669,7 +1669,7 @@ StScrollBar StButton#vhandle:hover
 
 .menu-favorites-button:hover {
 	background-color: #555;
-	box-shadow: inset 0px 0px 1px 1px #bc4233;
+	box-shadow: inset 0px 0px 1px 1px #656565;
 	border-radius: 2px;
 }
 
@@ -1715,7 +1715,7 @@ StScrollBar StButton#vhandle:hover
     padding-bottom: 7px;
     color: #dcdcdc;
 	background-color: #555;
-	box-shadow: inset 0px 0px 1px 1px #bc4233;
+	box-shadow: inset 0px 0px 1px 1px #656565;
     border-radius: 2px;
 }
 
@@ -1750,7 +1750,7 @@ StScrollBar StButton#vhandle:hover
     padding-bottom: 7px; 
     color: #dcdcdc;
 	background-color: #555;
-	box-shadow: inset 0px 0px 1px 1px #bc4233;
+	box-shadow: inset 0px 0px 1px 1px #656565;
 	border-radius: 2px;
 }
 
@@ -1889,7 +1889,7 @@ StScrollBar StButton#vhandle:hover
 }
 
 .sound-button:active {
-    background-color: #bc4233;
+    background-color: #656565;
     border: 1px solid #555;
     border-radius: 2px;
 }
@@ -2338,7 +2338,7 @@ StScrollBar StButton#vhandle:hover
 
 .soundbox-buttonMenu:active,
 .soundbox-buttonMenu:pressed {
-    background-color: #bc4233;
+    background-color: #656565;
     border: 1px solid #555;
     border-radius: 2px;
 }
@@ -2469,7 +2469,7 @@ soundbox-appTitle {
 
 .soundbox-soundButton:active,
 .soundbox-soundButton:pressed {
-    background-color: #bc4233;
+    background-color: #656565;
     border: 1px solid #555;
     border-radius: 2px;
 }
@@ -2562,7 +2562,7 @@ soundbox-appTitle {
  .calc-button:active {
     height: 40px;
     width: 50px;
-    background-color: #bc4233;
+    background-color: #656565;
     border: 1px solid #555;
     border-radius: 2px;
     margin: 20px;
@@ -2841,7 +2841,7 @@ The colour parameters are red, green, blue, and transparency or a name */
 
 .settings-button:activate
 {
-    background-color: #bc4233;
+    background-color: #656565;
     border: 1px solid #555;
     border-radius: 2px;
 	color: #dcdcdc;
